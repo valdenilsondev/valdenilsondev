@@ -1,16 +1,14 @@
-### Hi there 👋
+Sou Valdenilson Santos Barbosa
 
-<!--
-**valdenilsondev/valdenilsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional com vinte e três anos de experiência em educação, contribuindo com o ensino de Física através do desenvolvimento do jogo "Reino da Luz", Game de Física que aborda conceitos da Óptica das Cores, criando aplicativos em RA - Realidade Aumentada para estudar: O Sistema Solar Interativo, Projetos Arquitetónicos (apresentando projetos de residências em RA), etc.
 
-Here are some ideas to get you started:
+Mais Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🏫 Graduado em Física
+👨‍🏫 Graduado em Matemática
+👨‍🔬 Mestre em Ensino de Física
+
+
+
+
+
